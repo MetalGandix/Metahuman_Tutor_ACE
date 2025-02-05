@@ -13,4 +13,5 @@
 /Content/MetaHumans/Hana
 /Content/MetaHumans/Kristofer
 /Content/MetaHumans/Vivian
-/Plugins/MetaHuman
+Plugins/MetaHuman/Content/IdentityTemplate/Face_Archetype.uasset
+Plugins/MetaHuman
