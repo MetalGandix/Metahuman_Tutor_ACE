@@ -6,7 +6,7 @@
         "enviroment_studio":"tv_studio_primo_piano",
 	"animation_time":"0.10,2.00,7.00,10.00,14.00",
         "animation_sequence":"0,5,3,6,1",
-	"eyes_opening_range":"0.3",
+	"eyes_opening_range":"0.1",
 	"skin_strength":"1.1",
         "metahuman_lookin_camera":"false",
 	"can_talk":"true"
