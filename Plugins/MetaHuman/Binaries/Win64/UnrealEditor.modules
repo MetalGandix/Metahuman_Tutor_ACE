@@ -1,0 +1,32 @@
+{
+	"BuildId": "27405482",
+	"Modules": 
+	{
+		"AutoRigService": "UnrealEditor-AutoRigService.dll",
+		"MetaHumanCaptureData": "UnrealEditor-MetaHumanCaptureData.dll",
+		"MetaHumanCaptureDataEditor": "UnrealEditor-MetaHumanCaptureDataEditor.dll",
+		"MetaHumanCaptureProtocolStack": "UnrealEditor-MetaHumanCaptureProtocolStack.dll",
+		"MetaHumanCaptureSource": "UnrealEditor-MetaHumanCaptureSource.dll",
+		"MetaHumanCaptureUtils": "UnrealEditor-MetaHumanCaptureUtils.dll",
+		"MetaHumanConfig": "UnrealEditor-MetaHumanConfig.dll",
+		"MetaHumanConfigEditor": "UnrealEditor-MetaHumanConfigEditor.dll",
+		"MetaHumanCore": "UnrealEditor-MetaHumanCore.dll",
+		"MetaHumanCoreEditor": "UnrealEditor-MetaHumanCoreEditor.dll",
+		"MetaHumanFaceAnimationSolver": "UnrealEditor-MetaHumanFaceAnimationSolver.dll",
+		"MetaHumanFaceAnimationSolverEditor": "UnrealEditor-MetaHumanFaceAnimationSolverEditor.dll",
+		"MetaHumanFaceContourTracker": "UnrealEditor-MetaHumanFaceContourTracker.dll",
+		"MetaHumanFaceContourTrackerEditor": "UnrealEditor-MetaHumanFaceContourTrackerEditor.dll",
+		"MetaHumanFaceFittingSolver": "UnrealEditor-MetaHumanFaceFittingSolver.dll",
+		"MetaHumanFaceFittingSolverEditor": "UnrealEditor-MetaHumanFaceFittingSolverEditor.dll",
+		"MetaHumanFootageIngest": "UnrealEditor-MetaHumanFootageIngest.dll",
+		"MetaHumanIdentity": "UnrealEditor-MetaHumanIdentity.dll",
+		"MetaHumanIdentityEditor": "UnrealEditor-MetaHumanIdentityEditor.dll",
+		"MetaHumanImageViewer": "UnrealEditor-MetaHumanImageViewer.dll",
+		"MetaHumanMeshTracker": "UnrealEditor-MetaHumanMeshTracker.dll",
+		"MetaHumanPerformance": "UnrealEditor-MetaHumanPerformance.dll",
+		"MetaHumanPipeline": "UnrealEditor-MetaHumanPipeline.dll",
+		"MetaHumanSequencer": "UnrealEditor-MetaHumanSequencer.dll",
+		"MetaHumanSpeech2Face": "UnrealEditor-MetaHumanSpeech2Face.dll",
+		"MetaHumanToolkit": "UnrealEditor-MetaHumanToolkit.dll"
+	}
+}

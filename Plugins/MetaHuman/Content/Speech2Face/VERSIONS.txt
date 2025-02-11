@@ -1,0 +1,2 @@
+Tracking models copied on 6th April 2023 from Research/Wav2Face repo: tag wav2face-0.0.9 from models\onnx folder
+Re-imported 14/08/2023 due to NNE changes.

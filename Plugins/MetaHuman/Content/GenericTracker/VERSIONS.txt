@@ -1,0 +1,3 @@
+Tracking models copied on 6th April 2023 from Hyprsense/Hyprface2D-python repo: tag hyprface-0.0.26
+Re-imported 16/08/2023 due to NNE changes.
+Note that onnx models must be exported as opset 9 for use in UE.

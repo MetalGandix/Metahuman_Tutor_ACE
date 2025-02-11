@@ -1,0 +1,4 @@
+ffmpeg-python
+pymediainfo
+python-dateutil
+wavinfo
