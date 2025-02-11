@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Skilla_Project_5_3.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Skilla_Project_5_3.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Skilla_Project_5_3Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\MetaHuman">
+      <UniqueIdentifier>{CDEDC1EA-F9B9-3587-BCA0-82E1ECF3339C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\MetaHuman\Source">
+      <UniqueIdentifier>{EE0B0E16-7590-3638-A95B-9A5606906692}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\MetaHuman\Source\AutoRigService">
+      <UniqueIdentifier>{4251EFAB-A606-3CB0-9CA8-3A7980A424D6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MetaHuman\Source\AutoRigService\AutoRigService.Build.cs">
+      <Filter>Plugins\MetaHuman\Source\AutoRigService</Filter>
+    </None>
+    <None Include="..\..\Plugins\MetaHuman\MetaHuman.uplugin">
+      <Filter>Plugins\MetaHuman</Filter>
+    </None>
+    <Filter Include="Plugins\MetaHuman\Config">
+      <UniqueIdentifier>{26F63331-54C2-3DE9-ABAF-CB55B6FFF695}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MetaHuman\Config\FilterPlugin.ini">
+      <Filter>Plugins\MetaHuman\Config</Filter>
+    </None>
+    <Filter Include="Plugins\MetaHuman\Resources">
+      <UniqueIdentifier>{3E0346DE-D96D-386C-B5E5-BA18DA6C7927}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MetaHuman\Resources\Icon128.png">
+      <Filter>Plugins\MetaHuman\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\MetaHuman\Source\MetaHumanCaptureDataEditor">
+      <UniqueIdentifier>{88C64E9A-0BAC-31BF-86BE-AE07C901DC9F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MetaHuman\Source\MetaHumanCaptureDataEditor\MetaHumanCaptureDataEditor.Build.cs">
+      <Filter>Plugins\MetaHuman\Source\MetaHumanCaptureDataEditor</Filter>
+    </None>
+    <Filter Include="Plugins\MetaHuman\Source\MetaHumanCaptureData">
+      <UniqueIdentifier>{370718B1-B1C3-322A-9162-54085CC3FF11}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MetaHuman\Source\MetaHumanCaptureData\MetaHumanCaptureData.Build.cs">
+      <Filter>Plugins\MetaHuman\Source\MetaHumanCaptureData</Filter>
+    </None>
+    <Filter Include="Plugins\MetaHuman\Source\MetaHumanCaptureProtocolStack">
+      <UniqueIdentifier>{182AF112-F308-35BC-ACC6-A04BA9D833CF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MetaHuman\Source\MetaHumanCaptureProtocolStack\MetaHumanCaptureProtocolStack.Build.cs">
+      <Filter>Plugins\MetaHuman\Source\MetaHumanCaptureProtocolStack</Filter>
+    </None>
+    <Filter Include="Plugins\MetaHuman\Source\MetaHumanCaptureSource">
+      <UniqueIdentifier>{C12F4E4D-F37F-33C5-A932-33A07123F8FA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MetaHuman\Source\MetaHumanCaptureSource\MetaHumanCaptureSource.Build.cs">
+      <Filter>Plugins\MetaHuman\Source\MetaHumanCaptureSource</Filter>
+    </None>
+    <Filter Include="Plugins\MetaHuman\Source\MetaHumanCaptureUtils">
+      <UniqueIdentifier>{AF539E79-3FA3-31C1-991E-6FD6E3F6646B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MetaHuman\Source\MetaHumanCaptureUtils\MetaHumanCaptureUtils.Build.cs">
+      <Filter>Plugins\MetaHuman\Source\MetaHumanCaptureUtils</Filter>
+    </None>
+    <Filter Include="Plugins\MetaHuman\Source\MetaHumanConfigEditor">
+      <UniqueIdentifier>{967A2D23-8DD9-3DF0-96CC-DED7D8619864}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MetaHuman\Source\MetaHumanConfigEditor\MetaHumanConfigEditor.Build.cs">
+      <Filter>Plugins\MetaHuman\Source\MetaHumanConfigEditor</Filter>
+    </None>
+    <Filter Include="Plugins\MetaHuman\Source\MetaHumanConfig">
+      <UniqueIdentifier>{F7834BA2-E974-3609-8686-E0F4666DFC26}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MetaHuman\Source\MetaHumanConfig\MetaHumanConfig.Build.cs">
+      <Filter>Plugins\MetaHuman\Source\MetaHumanConfig</Filter>
+    </None>
+    <Filter Include="Plugins\MetaHuman\Source\MetaHumanCoreEditor">
+      <UniqueIdentifier>{9AB16F45-CEA1-39FE-A4A0-70DA047B6ECB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MetaHuman\Source\MetaHumanCoreEditor\MetaHumanCoreEditor.Build.cs">
+      <Filter>Plugins\MetaHuman\Source\MetaHumanCoreEditor</Filter>
+    </None>
+    <Filter Include="Plugins\MetaHuman\Source\MetaHumanCore">
+      <UniqueIdentifier>{66D7EF7B-BF78-3A85-81CA-CE65865D6C28}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MetaHuman\Source\MetaHumanCore\MetaHumanCore.Build.cs">
+      <Filter>Plugins\MetaHuman\Source\MetaHumanCore</Filter>
+    </None>
+    <Filter Include="Plugins\MetaHuman\Source\MetaHumanFaceAnimationSolverEditor">
+      <UniqueIdentifier>{B9E40340-32C5-335D-A3EC-F1AA81A6A988}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MetaHuman\Source\MetaHumanFaceAnimationSolverEditor\MetaHumanFaceAnimationSolverEditor.Build.cs">
+      <Filter>Plugins\MetaHuman\Source\MetaHumanFaceAnimationSolverEditor</Filter>
+    </None>
+    <Filter Include="Plugins\MetaHuman\Source\MetaHumanFaceAnimationSolver">
+      <UniqueIdentifier>{AAFDB66E-4FD0-3190-BDD7-DA4ED6D7317C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MetaHuman\Source\MetaHumanFaceAnimationSolver\MetaHumanFaceAnimationSolver.Build.cs">
+      <Filter>Plugins\MetaHuman\Source\MetaHumanFaceAnimationSolver</Filter>
+    </None>
+    <Filter Include="Plugins\MetaHuman\Source\MetaHumanFaceContourTrackerEditor">
+      <UniqueIdentifier>{4B0B681B-F89E-3887-8914-D0FFF0905A52}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MetaHuman\Source\MetaHumanFaceContourTrackerEditor\MetaHumanFaceContourTrackerEditor.Build.cs">
+      <Filter>Plugins\MetaHuman\Source\MetaHumanFaceContourTrackerEditor</Filter>
+    </None>
+    <Filter Include="Plugins\MetaHuman\Source\MetaHumanFaceContourTracker">
+      <UniqueIdentifier>{4FF66D49-125A-31F0-8344-AC5049D7E25A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MetaHuman\Source\MetaHumanFaceContourTracker\MetaHumanFaceContourTracker.Build.cs">
+      <Filter>Plugins\MetaHuman\Source\MetaHumanFaceContourTracker</Filter>
+    </None>
+    <Filter Include="Plugins\MetaHuman\Source\MetaHumanFaceFittingSolverEditor">
+      <UniqueIdentifier>{349194EA-7F27-31B4-AA32-837442C9406A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MetaHuman\Source\MetaHumanFaceFittingSolverEditor\MetaHumanFaceFittingSolverEditor.Build.cs">
+      <Filter>Plugins\MetaHuman\Source\MetaHumanFaceFittingSolverEditor</Filter>
+    </None>
+    <Filter Include="Plugins\MetaHuman\Source\MetaHumanFaceFittingSolver">
+      <UniqueIdentifier>{16E7406F-EB08-3688-87B8-C8B15DE35548}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MetaHuman\Source\MetaHumanFaceFittingSolver\MetaHumanFaceFittingSolver.Build.cs">
+      <Filter>Plugins\MetaHuman\Source\MetaHumanFaceFittingSolver</Filter>
+    </None>
+    <Filter Include="Plugins\MetaHuman\Source\MetaHumanFootageIngest">
+      <UniqueIdentifier>{3918ECE4-5292-3771-A0F2-3798B480BD70}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MetaHuman\Source\MetaHumanFootageIngest\MetaHumanFootageIngest.Build.cs">
+      <Filter>Plugins\MetaHuman\Source\MetaHumanFootageIngest</Filter>
+    </None>
+    <Filter Include="Plugins\MetaHuman\Source\MetaHumanIdentityEditor">
+      <UniqueIdentifier>{D7DF77AE-340E-34FC-9E78-BF8D2D3EB1F5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MetaHuman\Source\MetaHumanIdentityEditor\MetaHumanIdentityEditor.Build.cs">
+      <Filter>Plugins\MetaHuman\Source\MetaHumanIdentityEditor</Filter>
+    </None>
+    <Filter Include="Plugins\MetaHuman\Source\MetaHumanIdentity">
+      <UniqueIdentifier>{1BD1E7B3-97AD-38EE-A4AC-3AF8112EC8B5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MetaHuman\Source\MetaHumanIdentity\MetaHumanIdentity.Build.cs">
+      <Filter>Plugins\MetaHuman\Source\MetaHumanIdentity</Filter>
+    </None>
+    <Filter Include="Plugins\MetaHuman\Source\MetaHumanImageViewer">
+      <UniqueIdentifier>{9AF07A22-E6D0-3394-8E8F-E1C58F45B63A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MetaHuman\Source\MetaHumanImageViewer\MetaHumanImageViewer.Build.cs">
+      <Filter>Plugins\MetaHuman\Source\MetaHumanImageViewer</Filter>
+    </None>
+    <Filter Include="Plugins\MetaHuman\Source\MetaHumanMeshTracker">
+      <UniqueIdentifier>{9A378F12-46CE-3100-A49B-34B558A6EBFE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MetaHuman\Source\MetaHumanMeshTracker\MetaHumanMeshTracker.Build.cs">
+      <Filter>Plugins\MetaHuman\Source\MetaHumanMeshTracker</Filter>
+    </None>
+    <Filter Include="Plugins\MetaHuman\Source\MetaHumanPerformance">
+      <UniqueIdentifier>{C2D2FD73-7B94-318C-8FB3-C5E9F51742CA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MetaHuman\Source\MetaHumanPerformance\MetaHumanPerformance.Build.cs">
+      <Filter>Plugins\MetaHuman\Source\MetaHumanPerformance</Filter>
+    </None>
+    <Filter Include="Plugins\MetaHuman\Source\MetaHumanPipeline">
+      <UniqueIdentifier>{787D9D66-AD0D-35C2-AF90-06B049B698F1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MetaHuman\Source\MetaHumanPipeline\MetaHumanPipeline.Build.cs">
+      <Filter>Plugins\MetaHuman\Source\MetaHumanPipeline</Filter>
+    </None>
+    <Filter Include="Plugins\MetaHuman\Source\MetaHumanSequencer">
+      <UniqueIdentifier>{BEB1C795-742B-3CAB-A888-6F7FFBC799A9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MetaHuman\Source\MetaHumanSequencer\MetaHumanSequencer.Build.cs">
+      <Filter>Plugins\MetaHuman\Source\MetaHumanSequencer</Filter>
+    </None>
+    <Filter Include="Plugins\MetaHuman\Source\MetaHumanSpeech2Face">
+      <UniqueIdentifier>{7AB13EE0-63D4-320B-BA79-101395BEA967}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MetaHuman\Source\MetaHumanSpeech2Face\MetaHumanSpeech2Face.Build.cs">
+      <Filter>Plugins\MetaHuman\Source\MetaHumanSpeech2Face</Filter>
+    </None>
+    <Filter Include="Plugins\MetaHuman\Source\MetaHumanToolkit">
+      <UniqueIdentifier>{09930136-05B9-3091-848C-79E341FA759B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MetaHuman\Source\MetaHumanToolkit\MetaHumanToolkit.Build.cs">
+      <Filter>Plugins\MetaHuman\Source\MetaHumanToolkit</Filter>
+    </None>
+    <Filter Include="Source\Skilla_Project_5_3">
+      <UniqueIdentifier>{E17616F4-A188-307A-8536-35A6ADC6499C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Skilla_Project_5_3\Skilla_Project_5_3.Build.cs">
+      <Filter>Source\Skilla_Project_5_3</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Skilla_Project_5_3\Skilla_Project_5_3.cpp">
+      <Filter>Source\Skilla_Project_5_3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Skilla_Project_5_3\Skilla_Project_5_3.h">
+      <Filter>Source\Skilla_Project_5_3</Filter>
+    </ClInclude>
+    <Filter Include="Source\Skilla_Project_5_3\Private">
+      <UniqueIdentifier>{B0A43940-A155-3534-A0EE-2E5D5317EBA2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Skilla_Project_5_3\Private\ACE_RUNTIME_AUDIO.cpp">
+      <Filter>Source\Skilla_Project_5_3\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Skilla_Project_5_3\Private\AudioWaveFinished.cpp">
+      <Filter>Source\Skilla_Project_5_3\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Skilla_Project_5_3\Private\GetSoundFromName.cpp">
+      <Filter>Source\Skilla_Project_5_3\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Skilla_Project_5_3\Private\SoundWaveToFile.cpp">
+      <Filter>Source\Skilla_Project_5_3\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Skilla_Project_5_3\Private\StartMovieRenderQueue.cpp">
+      <Filter>Source\Skilla_Project_5_3\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Skilla_Project_5_3\Private\Test.cpp">
+      <Filter>Source\Skilla_Project_5_3\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Skilla_Project_5_3\Private\TestClass.cpp">
+      <Filter>Source\Skilla_Project_5_3\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Skilla_Project_5_3\Private\WaveAudioA2F.cpp">
+      <Filter>Source\Skilla_Project_5_3\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Skilla_Project_5_3\Public">
+      <UniqueIdentifier>{48A0D8A2-7156-3416-85AB-71BBBB30F972}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Skilla_Project_5_3\Public\ACE_RUNTIME_AUDIO.h">
+      <Filter>Source\Skilla_Project_5_3\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Skilla_Project_5_3\Public\AudioWaveFinished.h">
+      <Filter>Source\Skilla_Project_5_3\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Skilla_Project_5_3\Public\GetSoundFromName.h">
+      <Filter>Source\Skilla_Project_5_3\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Skilla_Project_5_3\Public\SoundWaveToFile.h">
+      <Filter>Source\Skilla_Project_5_3\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Skilla_Project_5_3\Public\StartMovieRenderQueue.h">
+      <Filter>Source\Skilla_Project_5_3\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Skilla_Project_5_3\Public\Test.h">
+      <Filter>Source\Skilla_Project_5_3\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Skilla_Project_5_3\Public\TestClass.h">
+      <Filter>Source\Skilla_Project_5_3\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Skilla_Project_5_3\Public\WaveAudioA2F.h">
+      <Filter>Source\Skilla_Project_5_3\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

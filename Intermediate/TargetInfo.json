@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Skilla_Project_5_3",
+			"Path": "..\\Source\\Skilla_Project_5_3.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Skilla_Project_5_3Editor",
+			"Path": "..\\Source\\Skilla_Project_5_3Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

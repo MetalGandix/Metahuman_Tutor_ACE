@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\admin\\documents\\unreal projects\\skilla_project_5_3_ace_working\\intermediate\\build\\win64\\unrealgame\\inc\\skilla_project_5_3\\uht\\soundwavetofile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\admin\\documents\\unreal projects\\skilla_project_5_3_ace_working\\intermediate\\build\\win64\\x64\\skilla_project_5_3\\shipping\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\admin\\documents\\unreal projects\\skilla_project_5_3_ace_working\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\skilla_project_5_3\\definitions.skilla_project_5_3.h",
+            "c:\\users\\admin\\documents\\unreal projects\\skilla_project_5_3_ace_working\\source\\skilla_project_5_3\\public\\soundwavetofile.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "c:\\users\\admin\\documents\\unreal projects\\skilla_project_5_3_ace_working\\intermediate\\build\\win64\\unrealgame\\inc\\skilla_project_5_3\\uht\\soundwavetofile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
