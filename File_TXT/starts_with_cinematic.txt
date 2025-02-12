@@ -1,7 +1,7 @@
 {
 
     "metahuman_video_conf": {
-        "metahuman_name":"Chiara",
+        "metahuman_name":"Federico",
         "metahuman_audio":"Skilla_Test_Wav_2.wav",
         "enviroment_studio":"tv_studio_primo_piano",
 	"animation_time":"0.10,2.00,7.00,10.00,14.00",
